@@ -1,0 +1,13 @@
+# Preparo das formulacoes (secao 5.3 do TCC). V_AuNP = 10 mL de suspensao em todas.
+# f_d = V_final / V_AuNP. Coluna 'amostra' na nomenclatura nominal original.
+amostra,rotulo,sistema,massa_biopolimero_mg,V_final_mL,conc_final_pct,f_d
+"Au-ALG 1,5%","Au-ALG 0,5%",ALG,50,10,0.5,1.0
+Au-ALG 3%,"Au-ALG 1,0%",ALG,100,10,1.0,1.0
+Au-ALG 6%,"Au-ALG 2,0%",ALG,200,10,2.0,1.0
+"Au-CHI 1,5%","Au-CHI 0,6%",CHI,100,17,0.59,1.7
+Au-CHI 3%,"Au-CHI 1,2%",CHI,200,17,1.18,1.7
+Au-CHI 6%,"Au-CHI 1,8%",CHI,300,17,1.76,1.7
+"Au-GEL 1,5%","Au-GEL 0,05%",GEL,18.75,35,0.054,3.5
+Au-GEL 3%,"Au-GEL 0,11%",GEL,37.5,35,0.11,3.5
+Au-GEL 6%,"Au-GEL 0,21%",GEL,75,35,0.21,3.5
+Au puro,Controle,CTRL,0,10,0,1.0

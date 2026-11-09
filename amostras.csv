@@ -1,0 +1,12 @@
+# Correspondencia entre os arquivos de espectro e as amostras do TCC
+arquivo,rotulo_nominal,rotulo_tcc,poco_UV
+Amostra_01.Spe,"Au-ALG 1,5%","Au-ALG 0,5%",A02
+Amostra_02.Spe,Au-ALG 3%,"Au-ALG 1,0%",B03
+Amostra_03.Spe,Au-ALG 6%,"Au-ALG 2,0%",C02
+Amostra_04.Spe,"Au-CHI 1,5%","Au-CHI 0,6%",D03
+Amostra_05.Spe,Au-CHI 3%,"Au-CHI 1,2%",E02
+Amostra_06.Spe,Au-CHI 6%,"Au-CHI 1,8%",A03
+Amostra_07.Spe,"Au-GEL 1,5%","Au-GEL 0,05%",B02
+Amostra_08.Spe,Au-GEL 3%,"Au-GEL 0,11%",C03
+Amostra_09.Spe,Au-GEL 6%,"Au-GEL 0,21%",D02
+Amostra_10.Spe,Au puro,Controle,E03

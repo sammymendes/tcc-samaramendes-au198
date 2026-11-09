@@ -1,0 +1,17 @@
+Dados brutos originais do TCC, com os nomes usados por executar_tudo.sh.
+
+  Eu152_inferior.Spe        fonte de Eu-152 no fundo do microtubo (menor distancia),
+                            27/10/2026 15:36, 1200 s de tempo vivo
+                            (arquivo original: "Eu-152 calibracao eficiencia - inferior.Spe")
+  Eu152_superior.Spe        fonte de Eu-152 no topo do microtubo (maior distancia),
+                            27/10/2026 14:41, 1800 s de tempo vivo
+                            (arquivo original: "Eu-152 calibracao eficiencia - superior.Spe")
+  amostras/Amostra_01.Spe   ... ate Amostra_10.Spe, 28/10/2026, 900 s de tempo vivo cada
+                            (arquivos originais Amostra_1.Spe ... Amostra_10.Spe;
+                            correspondencia com os rotulos do TCC em dados/amostras.csv)
+  Resultados_UV-VIS.xlsx    planilha exportada da leitora de microplacas, 200-1000 nm
+
+Espectros gravados no Maestro 7.01, analisador DSPEC-PRO SN 6181113 (cabecalho
+dos arquivos). Os rotulos internos dos espectros (ex.: "Au-ALG 1,5%") sao os
+nominais da epoca da medida; os rotulos corrigidos pela regra de tres estao em
+dados/formulacoes.csv e dados/amostras.csv.

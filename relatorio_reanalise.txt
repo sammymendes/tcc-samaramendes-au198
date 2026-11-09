@@ -1,0 +1,21 @@
+REANALISE - CORRECAO PELA DILUICAO, TRACADOR Na-24 E ATIVIDADE TEORICA
+
+Medias por sistema (razao em relacao ao controle):
+             medida    razao    corrig.    razao      Na-24    razao
+  ALG         796.5     1.79      796.5     1.79       n.a.     n.a.
+  CHI         479.4     1.08      815.0     1.83      619.7     1.39
+  GEL         144.5     0.32      505.9     1.14      500.2     1.12
+  CTRL        445.3     1.00      445.3     1.00      445.3     1.00
+
+Razao entre extremos: medida 6.44 -> corrigida 1.98 (entre formulacoes: 1.84)
+Coeficiente de variacao: medida 57% -> corrigida 25%
+Fator de diluicao da gelatina pelo Na-24: 3.44, 3.49, 3.45 (nominal 3,5)
+
+Atividade teorica (fluxo termico 1.0e+09, sem epitermico): controle 133.3 Bq; medido/teorico = 3.34
+Fluxo efetivo pelo Au-198 do controle: 3.34e+09 cm^-2 s^-1
+Na-24 do citrato (controle): teorico 239.6 Bq, medido 1085.1 Bq, fator 4.53
+Na-24 do alginato: inclinacao 33.16 +- 1.57 Bq/mg (teorico 7.11 Bq/mg, fator 4.66); intercepto 681 +- 144 Bq
+Fluxo termico efetivo pelo Na-24: 4.60e+09 cm^-2 s^-1
+
+Observacao: sem replicas, as diferencas entre formulacoes nao sao submetidas a
+teste de significancia; as incertezas das razoes sao apenas de contagem.
